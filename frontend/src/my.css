@@ -1,0 +1,67 @@
+
+.mt-50{
+
+    margin-top: 50px;
+  }
+  
+  .mb-50{
+  
+    margin-bottom: 50px;
+  }
+  
+  .card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .1875rem;
+  }
+  
+  .product-title
+  {
+    color: #008cba;
+    font-weight: 800;
+  
+  }
+  .mb-10
+  {
+    margin-bottom: 10px;
+  }
+  
+  .product-category
+  {
+    font-size: 14px;
+  }
+  
+  .card-img-actions {
+    position: relative;
+  }
+  .card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    text-align: center;
+    
+  }
+  
+  
+  
+  .card-img{
+  
+    width: 350px;
+  }
+  
+  .nav-color
+  {
+    color: #fff6d8 !important;
+  }
+  .nav-color:hover
+  {
+    color: #fff6d8 !important;
+  }
